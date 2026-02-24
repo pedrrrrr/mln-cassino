@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: linear-gradient(black, #111);
+    color: gold;
+    font-family: Arial;
+    text-align: center;
+}
+
+.casino {
+    margin-top: 80px;
+}
+
+.saldo {
+    font-size: 22px;
+    margin: 20px;
+}
+
+.slot {
+    font-size: 60px;
+    margin: 20px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background: gold;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background: orange;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 22px;
+}
